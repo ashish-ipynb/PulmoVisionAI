@@ -29,7 +29,7 @@ st.markdown(
     <style>
 
     .main-title{
-        font-size:40px;
+        font-size:72px;
         font-weight:bold;
         color:#0E7490;
     }
