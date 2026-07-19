@@ -1,28 +1,21 @@
+streamlit==1.49.1
 
+torch==2.7.1
+torchvision==0.22.1
 
-streamlit
+numpy==2.3.1
+pandas==2.3.1
 
-torch
+matplotlib==3.10.5
+plotly==6.2.0
 
-torchvision
+opencv-python-headless==4.10.0.84
 
-numpy
+Pillow==11.3.0
 
-pandas
+scikit-image==0.25.2
+scikit-learn==1.7.1
 
-matplotlib
+git+https://github.com/jacobgil/pytorch-grad-cam.git
 
-plotly
-
-opencv-python-headless
-
-Pillow
-
-scikit-image
-
-scikit-learn
-
-grad-cam
-
-reportlab
-
+reportlab==4.4.3
