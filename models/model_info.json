@@ -1,0 +1,8 @@
+{
+    "Model":"DenseNet121",
+    "InputSize":224,
+    "Threshold":0.35,
+    "ROC_AUC":0.9896917186,
+    "Accuracy":0.9592760181,
+    "BalancedAccuracy":0.9594486133
+}
