@@ -4,7 +4,7 @@ An AI-powered web application for pulmonary nodule classification from CT scan i
 
 🌐 **Live Demo:** https://pulmovisionai.streamlit.app/Prediction
 
-📂 **GitHub Repository:** https://github.com/ashish-ipynb/PumoVisionAI
+📂 **GitHub Repository:** https://github.com/ashish-ipynb/PulmoVisionAI
 
 ---
 
